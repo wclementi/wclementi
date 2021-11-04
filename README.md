@@ -3,7 +3,8 @@
 ## I'm 16 y.o student studying at ITG
 
 - 🌱 I’m currently learning Game Hacking & Reversing, Software development
-- 🥅 2021 Goals: I would like to expand my knowledge C# & C++ languages, make a simple cheat for assult cube and later on more                   advanced cheat in TABG
+- 🥅 2021 Goals: I would like to expand my knowledge C# & C++ languages, make a simple trainer for assult cube and later on more
+                   advanced one for TABG
 
 <br />
 
