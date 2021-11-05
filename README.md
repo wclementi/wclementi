@@ -11,7 +11,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C#" width="27px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
+<img align="left" alt="C#" width="29px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
 <img align="left" alt="C++" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" />
  
 <br />
