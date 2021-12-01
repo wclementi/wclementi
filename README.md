@@ -24,3 +24,5 @@
 
 
 
+- name: AoC-badges
+  uses: J0B10/aoc-badges-action@v3.0.0
