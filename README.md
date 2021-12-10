@@ -2,7 +2,7 @@
 
 ## I'm a student studying at ITG
 
-- 🌱 I’m currently learning Game Hacking & Reversing, Software development
+- 🌱 I’m currently learning Game Hacking & Reverse engineering, Software development
 - 🥅 2021 Goals: I would like to expand my knowledge C# & C++ languages, make a simple trainer for assult cube and later on more
                    advanced one for TABG
 
