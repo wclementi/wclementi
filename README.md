@@ -20,8 +20,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wclementi&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wclementi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-- name: AoC-badges
-  uses: J0B10/aoc-badges-action@v3.0.0
