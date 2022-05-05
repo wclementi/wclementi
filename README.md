@@ -2,7 +2,7 @@
 
 ## I'm a student studying at ITG
 
-- 🌱 I’m currently learning Game Hacking & Reverse engineering, Software development
+- 🌱 I’m currently learning Game Hacking, Reverse engineering and Software development
 - 🥅 2022 Goals: Expand my knowledge C# & C++ languages, continue my reverse engineering and game hacking study and make more advanced DB's
 
 <br />
