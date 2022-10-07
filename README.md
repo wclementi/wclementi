@@ -1,3 +1,14 @@
+<h3 align="center">About me:</h3>
+
+
+<div align="center">
+<p>Mainly Back End Developer 🖥️</p>
+<p>Intermediate reverse engineer 💾</p>
+<p>Currently studying Cyber Security 🌐</p>
+</div>
+
+---
+
 <h3 align="center">Languages I know:</h3>
 <p align="center">
 
