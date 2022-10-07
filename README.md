@@ -1,4 +1,4 @@
-### Languages I am familiar with:
+<h3 align="center">Languages I know:</h3>
 <p align="center">
 
 <img alt="C" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
