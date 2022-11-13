@@ -12,7 +12,7 @@
 <h3 align="center">Languages I know:</h3>
 <p align="center">
 
-<img alt="C" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" href="https://www.cprogramming.com"/>
+<a alt="C" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" href="https://www.cprogramming.com"/>
 <img alt="C#" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" href="https://learn.microsoft.com/en-us/dotnet/csharp/"/>
 <img alt="C++" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" href="https://cplusplus.com"/>
 <img alt="HTML" width="31px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" href="https://html.com"/>
